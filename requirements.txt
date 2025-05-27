@@ -1,1 +1,4 @@
-mcp             # FastMCP ve ilgili paketler
+mcp
+requests>=2.28.0
+requests-cache
+retry-requests
