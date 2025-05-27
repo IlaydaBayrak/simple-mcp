@@ -14,4 +14,4 @@ async def reverse_text_tool(text: str) -> str:
 
 if __name__ == "__main__":
     # stdio üzerinden MCP mesajlaşmasını başlat
-    mcp.run(transport="http")
+    mcp.run(transport="stdio")
