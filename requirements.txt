@@ -1,0 +1,1 @@
+mcp             # FastMCP ve ilgili paketler
